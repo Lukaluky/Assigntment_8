@@ -1,4 +1,3 @@
-README for the Observer Pattern: Stock Market Simulation
 Overview
 This Python script demonstrates the Observer pattern through a stock market simulation. The implementation includes two main classes, Stock and Investor, where Stock acts as the subject and Investor as the observer. The program allows dynamic registration and deregistration of investors to stocks, and notifies them of price changes automatically.
 
